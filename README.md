@@ -1,2 +1,2 @@
-# E-COMMERCE-DASHBOARD
-Interactive Power BI dashboard for e-commerce metrics.
+# E-COMMERCE-DASHBOARDS
+Interactive Power BI dashboards for e-commerce metrics.
